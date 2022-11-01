@@ -1,7 +1,7 @@
 Dados Públicos CNPJ - Conversão para CSV/SQLITE e Consultas
 Utilitário em Python para carregar a base completa de CNPJ disponibilizada pela Receita Federal (aprox. 85 GB) e transformá-la em arquivos csv ou sqlite para fácil consumo. Processa dados de empresas, sócios e CNAEs. Possibilita também fazer consultas de empresas ou sócios e gravar resultados em CSV ou em grafo de relacionamentos.
 
-(https://github.com/SelmaCantelli/cnpj-receita-federal/issues/1#issue-1431876924)
+![SelmcaCantelli](https://github.com/SelmaCantelli/cnpj-receita-federal/issues/1#issue-1431876924)
 
 ATENÇÃO!
 
