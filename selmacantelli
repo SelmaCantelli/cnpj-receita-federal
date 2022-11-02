@@ -4,6 +4,8 @@ Utilitário em Python para carregar a base completa de CNPJ disponibilizada pela
 
 img src -![grafo]("https://user-images.githubusercontent.com/77678430/199373273-57993d5f-a60f-4435-8662-30dcb933b53f.png")/>
 
+![alt text](https://user-images.githubusercontent.com/77678430/199373273-57993d5f-a60f-4435-8662-30dcb933b53f.png)
+
 ATENÇÃO!
 
 A partir de março de 2021, a Receita Federal mudou completamente a forma de disponibilizar os dados públicos do CNPJ. O script de carga deste repositório ainda não foi atualizado para refletir estas alterações, e portanto não funcionará para os novos arquivos disponibilizados a partir desta data.
